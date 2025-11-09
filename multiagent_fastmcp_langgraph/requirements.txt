@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+databricks-sql-connector
+langchain
+langchain-openai
+fastmcp
+langgraph
